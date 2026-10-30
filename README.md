@@ -113,3 +113,43 @@ console.log(room?.url); // https://arbya.chat/saudi
 - **Android App Portal:** [https://arbya.chat/app](https://arbya.chat/app)
 - **Privacy Policy:** [https://arbya.chat/privacy](https://arbya.chat/privacy)
 - **Terms of Service:** [https://arbya.chat/terms](https://arbya.chat/terms)
+
+
+---
+
+<div dir="rtl">
+
+## 🌐 المحور الرابع: الفهرس المرجعي الرسمي لمنظومة عربية شات على المتاجر والمنصات العالمية (Official Global Ecosystem & Mirrors)
+
+تتوفر النسخ الرسمية الموثقة والأدلة المرجعية لمنصة **[عربية شات](https://arbya.chat)** و**[شات عرب أمريكا والمهجر](https://usachatip.com)** عبر أكبر المتاجر والمستودعات والمنصات العالمية:
+
+### 📱 متاجر وبوابات تطبيقات الأندرويد الرسمية (`com.arbyachat.app`):
+- 🟢 **[APKPure — المتجر الرسمي المعتمد (Arbya Chat v1.15)](https://apkpure.com/p/com.arbyachat.app)**
+- 🔵 **[APK.COM — البوابة الرسمية بـ 14 لغة عالمية (arbyachat.apk.com)](https://arbyachat.apk.com)** | **[سياسة الخصوصية على APK.COM](https://arbyachat.apk.com/privacy-policy)**
+- 📦 **[Internet Archive — أرشيف الإنترنت العالمي (Arbya Chat Android APK)](https://archive.org/details/arbya-chat-android-apk)**
+- 🎮 **[Itch.io — صفحة تطبيق عربية شات الرسمية](https://arbyachat.itch.io/arbya-chat)** | **[ملف المطور على Itch.io](https://arbyachat.itch.io)**
+- 🔄 **[AlternativeTo — قائمة أفضل تطبيقات الدردشة الصوتية والكتابية العربية 2026](https://alternativeto.net/lists/47253/best-real-time-voice-and-text-chat-apps-and-arabic-communities-2026/)**
+- 🚀 **[PeerPush — ملف المطور الرسمي وإطلاق التطبيق](https://peerpush.com/u/karmyaseen480)**
+- 💻 **[SourceForge — البروفايل التقني والمدونة والويكي الرسمي](https://sourceforge.net/u/arbyachat/profile/)** | **[مدونة SourceForge](https://sourceforge.net/u/arbyachat/blog/)** | **[ويكي المشروع](https://sourceforge.net/u/arbyachat/arbya-chat/home/)**
+
+### 🏛️ المستودعات العلمية والمنصات المرجعية العالمية:
+- 🔬 **[CERN Zenodo (DOI) — التوثيق البحثي والتقني لمنظومة عربية شات](https://zenodo.org/records/19184610)** | **[موسوعة الاقتباسات على Zenodo](https://zenodo.org/records/19184612)** | **[بوابة شات أمريكا على Zenodo](https://zenodo.org/records/19184614)**
+- 📰 **[Medium — المدونة الرسمية لمنظومة عربية شات (@karmyaseen480)](https://medium.com/@karmyaseen480)**
+- 📊 **[SlideShare — العروض التقديمية والأدلة الرسمية (4 عروض)](https://www.slideshare.net/slideshow/arbya-chat-official-arabic-voice-text-chat-platform-android-apk-2026/286125461)**
+- 🎙️ **[SpeakerDeck — العروض التقنية الرسمية (@arbyachat)](https://speakerdeck.com/arbyachat)**
+- 📑 **[HackMD — البوابة المرجعية الشاملة والوثائق التقنية (5 وثائق)](https://hackmd.io/wVE0nbPAQWGerjTdG7wQPQ)**
+- 📌 **[Wakelet — المجموعات المرجعية الرسمية (@Aya57616)](https://wakelet.com/@Aya57616)**
+- 🎨 **[Padlet — اللوحات التفاعلية الرسمية لمنظومة عربية شات](https://padlet.com/karmyaseen480/arbya-chat-official-ecosystem-2026-p7m2e4r7w8u3q1z5)**
+- 🌐 **[Google Sites — البوابة التعريفية على مواقع جوجل](https://sites.google.com/view/arbya-chat-official/home)**
+- ✍️ **[Google Blogger — مدونة شات عربي الرسمية (arabya2.blogspot.com)](https://arabya2.blogspot.com/)**
+- 📝 **[WordPress.com — المدونة الرسمية (arbyachatofficial.wordpress.com)](https://arbyachatofficial.wordpress.com/)**
+- 📓 **[Tumblr — المدونة الرسمية (arbya-chat-official.tumblr.com)](https://www.tumblr.com/blog/arbya-chat-official)**
+- ⚡ **[Telegraph — الدليل السريع لتطبيق ومنصة عربية شات](https://telegra.ph/Arbya-Chat-Official-Android-App-v115-Certified-on-APKCOM-apkcom-10-30)**
+- 📋 **[Rentry.co — الوثيقة المرجعية السريعة](https://rentry.co/arbyachat-apkcom-official)**
+- 🌳 **[Linktree — شجرة الروابط الرسمية (linktr.ee/arbyachat)](https://linktr.ee/arbyachat)**
+- 🐳 **[Docker Hub — المستودع الحاوي الرسمي (hub.docker.com/u/arbyachat)](https://hub.docker.com/r/arbyachat/arbya-chat)**
+- 📈 **[Google Kaggle — ملف البيانات والتوثيق الرسمي](https://www.kaggle.com/arbyachat)**
+- 🛍️ **[Gumroad — الصفحة الرسمية للتطبيق المجاني](https://arbyachat.gumroad.com/l/arbya-chat-apk)**
+- 🪪 **[Gravatar — الهوية الرقمية الموحدة](https://gravatar.com/arbyachatofficial)**
+
+</div>
