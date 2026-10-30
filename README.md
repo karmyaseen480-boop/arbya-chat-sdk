@@ -1,50 +1,115 @@
-# @arbya-chat/sdk — TypeScript Room & WebRTC Metadata SDK
+<div align="center" dir="rtl">
 
-Official TypeScript metadata and room routing SDK for **[عربية شات (Arbya Chat)](https://arbya.chat)** and **[USA Chat (شات عرب أمريكا والمهجر)](https://usachatip.com)**.
+<img src="https://arbya.chat/logo/logo-icon.png" alt="عربية شات - Arbya Chat" width="140" height="140" />
+
+# 🌐 منظومة وتطبيق عربية شات الرسمي | Arbya Chat Official Platform & SDK
+
+**أكبر منصة [شات عربي](https://arbya.chat) وغرف [دردشة عربية](https://arbya.chat/arabic-chat) صوتية وكتابية مجانية بالكامل وبدون تسجيل حساب**
+
+[![الموقع الرسمي - عربية شات](https://img.shields.io/badge/🌐_الموقع_الرسمي-arbya.chat-4f46e5?style=for-the-badge)](https://arbya.chat)
+[![صفحة تطبيق الأندرويد](https://img.shields.io/badge/📱_تطبيق_الأندرويد_الرسمي-v1.15_APK-10b981?style=for-the-badge)](https://arbya.chat/app)
+[![شات عرب أمريكا والمهجر](https://img.shields.io/badge/🇺🇸_بوابة_المهجر-usachatip.com-dc2626?style=for-the-badge)](https://usachatip.com)
+[![موسوعة الحكم والاقتباسات](https://img.shields.io/badge/📜_موسوعة_الحكم-arbya.chat/quotes-d97706?style=for-the-badge)](https://arbya.chat/quotes)
+
+</div>
 
 ---
 
-## 🌐 Official Platform Portals & Documentation
+<div dir="rtl">
 
-- **Main Arabic Voice & Text Chat Platform:** [https://arbya.chat](https://arbya.chat)
-- **Official Android App Page (`Arbya Chat v1.15`):** [https://arbya.chat/app](https://arbya.chat/app)
-- **Arabic Chat Rooms Directory:** [https://arbya.chat/directory](https://arbya.chat/directory)
-- **Arabic Quotes & Literary Encyclopedia:** [https://arbya.chat/quotes](https://arbya.chat/quotes)
-- **Articles & Guides Portal:** [https://arbya.chat/blog](https://arbya.chat/blog) | [https://arbya.chat/articles](https://arbya.chat/articles)
-- **Arab American & Diaspora Portal:** [https://usachatip.com](https://usachatip.com) | [English USA Chat Rooms](https://usachatip.com/usa)
+## 🌟 نبذة شاملة عن منصة وتطبيق عربية شات (Arbya Chat)
+
+تُعد منصة **[عربية شات (شات عربي مجاني بدون تسجيل)](https://arbya.chat)** البوابة العربية الأولى للتواصل الحي والمباشر بالصوت والصورة والكتابة، حيث تجمع الشباب والبنات من كافة أقطار الوطن العربي وأبناء الجالية العربية في أمريكا وكندا وأوروبا وأستراليا في غرف دردشة تفاعلية آمنة وسريعة تعمل بتقنيات `WebRTC` و`Socket.IO` الحديثة بدون الحاجة لإدخال رقم هاتف أو بريد إلكتروني.
+
+### ✨ أبرز المميزات التقنية والاجتماعية:
+- 🚀 **دخول فوري بدون تسجيل أو اشتراك:** ادخل كزائر بضغطة زر عبر **[شات بدون تسجيل 2026](https://arbya.chat/chat-without-registration-2026)** أو سجّل عضويتك المحمية مجاناً.
+- 🎙️ **غرف دردشة صوتية وكتابية حية (WebRTC Voice):** تحدث بالمايكروفون واستمع للبث الصوتي المباشر بجودة نقية عبر **[شات صوتي عربي 2026](https://arbya.chat/voice-chat-2026)**.
+- 📱 **تطبيق أندرويد رسمي معتمد:** متاح للتحميل الفوري عبر **[صفحة تحميل تطبيق عربية شات للأندرويد (Arbya Chat APK v1.15)](https://arbya.chat/app)** ومتجر **[APKPure الرسمي](https://apkpure.com/p/com.arbyachat.app)** وبوابة **[APK.COM الرسمية](https://arbyachat.apk.com)**.
+- 🔒 **محادثات خاصة مشفرة ومكالمات فيديو:** تواصل فردي آمن مع أصدقائك مع تحكم كامل بالخصوصية وقفل الرسائل الخاصة.
+- 📸 **حائط يوميات وستوريات تفاعلية:** شارك لحظاتك وحالاتك اليومية وتفاعل مع منشورات الأعضاء في الوقت الفعلي.
+- 👑 **ألقاب ملكية وإطارات متحركة:** خصّص ملفك الشخصي بأحدث الألقاب الثلاثية الأبعاد والإطارات المتحركة وموسيقى البروفايل.
 
 ---
 
-## 📦 Installation & Usage
+## 🗺️ المحور الأول: دليل غرف الدردشة العربية الرئيسية والإقليمية
+
+تصفح **[دليل غرف الدردشة العربية الشامل](https://arbya.chat/directory)** واختر غرفتك المفضلة للدخول المباشر:
+
+### 💬 بوابات الدردشة العامة والتخصصية:
+- 🏠 **[عربية شات - الصفحة الرئيسية (شات عربي مجاني)](https://arbya.chat)**
+- 💬 **[غرفة شات عربي العام](https://arbya.chat/arabic-chat)**
+- ⚡ **[شات بدون تسجيل 2026 — دخول زوار فوري](https://arbya.chat/chat-without-registration-2026)**
+- 📱 **[شات للجوال 2026 — دردشة موبايل سريعة](https://arbya.chat/mobile-chat-2026)**
+- 🎙️ **[شات صوتي عربي 2026 — غرف مايك وبث مباشر](https://arbya.chat/voice-chat-2026)**
+- 🌸 **[شات بنات العرب 2026 — دردشة بنات آمنة](https://arbya.chat/girls-chat-2026)**
+- 🎲 **[شات عشوائي تعارف 2026](https://arbya.chat/random-chat-2026)**
+- ☕ **[شات سوالف ووناسة 2026](https://arbya.chat/swalif-chat-2026)**
+
+### 🌍 غرف الدول العربية (الخليج، الشام، مصر، والمغرب العربي):
+| الدولة / الغرفة | الرابط الرسمي المباشر | الدولة / الغرفة | الرابط الرسمي المباشر |
+| :--- | :--- | :--- | :--- |
+| 🇸🇦 **شات السعودية والخليج** | **[دخول شات السعودية](https://arbya.chat/saudi)** | 🇪🇬 **شات مصر والقاهرة** | **[دخول شات مصر](https://arbya.chat/egypt)** |
+| 🇸🇾 **شات سوريا ودمشق** | **[دخول شات سوريا](https://arbya.chat/syria)** | 🇮🇶 **شات العراق وبغداد** | **[دخول شات العراق](https://arbya.chat/iraq)** |
+| 🇵🇸 **شات فلسطين والقدس** | **[دخول شات فلسطين](https://arbya.chat/palestine)** | 🇯🇴 **شات الأردن وعمّان** | **[دخول شات الأردن](https://arbya.chat/jordan)** |
+| 🇱🇧 **شات لبنان وبيروت** | **[دخول شات لبنان](https://arbya.chat/lebanon)** | 🇲🇦 **شات المغرب العربي** | **[دخول شات المغرب](https://arbya.chat/morocco)** |
+| 🇩🇿 **شات الجزائر** | **[دخول شات الجزائر](https://arbya.chat/algeria)** | 🇾🇪 **شات اليمن السعيد** | **[دخول شات اليمن](https://arbya.chat/yemen)** |
+| 🇰🇼 **شات الكويت والخليج** | **[دخول شات الخليج](https://arbya.chat/gulf-arab-chat-2026)** | 🇹🇳 **شات تونس وليبيا** | **[دخول دليل الغرف](https://arbya.chat/directory)** |
+
+---
+
+## 🇺🇸 المحور الثاني: بوابة الجالية العربية في أمريكا وكندا وأوروبا (usachatip.com)
+
+تخدم شبكة **[شات عرب أمريكا وكندا والمهجر الرسمي (USA Chat IP)](https://usachatip.com)** ملايين المغتربين العرب في الولايات المتحدة، كندا، وأوروبا عبر غرف مخصصة لكل ولاية ومدينة:
+
+- 🇺🇸 **[شات عرب أمريكا والمهجر — البوابة الرئيسية (usachatip.com)](https://usachatip.com)**
+- 🗽 **[USA Chat Rooms — Free Online Voice & Text Chat (English Portal)](https://usachatip.com/usa)**
+- 🏙️ **[شات عرب ميشيغان وديربورن (Michigan & Dearborn Arab Chat)](https://usachatip.com/michigan-dearborn-chat)**
+- 🗽 **[شات عرب نيويورك وبروكلين (New York Arab Chat)](https://usachatip.com/new-york-arab-chat)**
+- 🌴 **[شات عرب كاليفورنيا ولوس أنجلوس (California Arab Chat)](https://usachatip.com/california-arab-chat)**
+- 🤠 **[شات عرب تكساس وهيوستن ودالاس (Texas Arab Chat)](https://usachatip.com/texas-arab-chat)**
+- 🌬️ **[شات عرب شيكاغو وإلينوي (Chicago Arab Chat)](https://usachatip.com/chicago-arab-chat)**
+- ☀️ **[شات عرب فلوريدا وميامي (Florida Arab Chat)](https://usachatip.com/florida-arab-chat)**
+- 🍁 **[شات عرب كندا وتورنتو ومونتريال (Canada Arab Chat)](https://usachatip.com/canada-arab-chat)**
+- 🇩🇪 **[شات عرب ألمانيا وبرلين (Germany Arab Chat)](https://usachatip.com/germany-arab-chat)**
+- 🇸🇪 **[شات عرب السويد ومالمو وستوكهولم (Sweden Arab Chat)](https://usachatip.com/sweden-arab-chat)**
+- 🇪🇺 **[شات عرب أوروبا وفرنسا وبريطانيا (Europe Arab Chat)](https://usachatip.com/europe-arab-chat)**
+
+---
+
+## 📚 المحور الثالث: موسوعة الاقتباسات والحكم وحالات واتساب والمدونة الأدبية
+
+تضم منصة عربية شات أكبر مكتبة عربية مفهرسة للحكم والأقوال المأثورة وحالات الواتساب والانستقرام والأدوات التفاعلية:
+
+- 📜 **[موسوعة الاقتباسات والحكم العربية الشاملة](https://arbya.chat/quotes)**
+- ✒️ **[دليل المؤلفين والحكماء والفلاسفة والأدباء](https://arbya.chat/authors)**
+- 🏷️ **[تصنيفات وموضوعات الحكم والمقولات](https://arbya.chat/categories)**
+- 🔖 **[وسوم الاقتباسات وحالات واتساب الجاهزة للنسخ](https://arbya.chat/tags)**
+- 📖 **[مدونة عربية شات التقنية والاجتماعية](https://arbya.chat/blog)**
+- 📰 **[مقالات الحكم والأدب وتطوير الذات](https://arbya.chat/articles)**
+- 🛠️ **[أدوات زخرفة الأسماء والبايو والألعاب التفاعلية](https://arbya.chat/tools)**
+
+### 🔥 أحدث المقالات والأدلة المنشورة (2026):
+1. 📱 **[تحميل تطبيق عربية شات للأندرويد (Arbya Chat APK v1.15) من المتاجر الرسمية 2026](https://arbya.chat/blog/download-arbya-chat-apk-android-2026)**
+2. 🌎 **[شات المغتربين العرب في أمريكا وأوروبا وكندا 2026: تواصل صوتي وكتابي مباشر](https://arbya.chat/blog/arab-diaspora-chat-usa-europe-2026)**
+3. ☀️ **[أجمل عبارات الصباح والتفاؤل والأمل 2026: رسائل صباحية راقية](https://arbya.chat/articles/morning-hope-optimism-quotes-2026)**
+4. ✨ **[أفخم عبارات بايو انستا وتيليجرام وتويتر بالعربي 2026 جاهزة للنسخ](https://arbya.chat/articles/short-arabic-bios-insta-whatsapp-quotes-2026)**
+
+</div>
+
+---
+
+## 💻 Developer TypeScript SDK Usage (`@arbya-chat/sdk`)
 
 ```typescript
-import { OFFICIAL_PLATFORM_ENDPOINTS, getRoomBySlug } from '@arbya-chat/sdk';
+import { OFFICIAL_PLATFORM_ENDPOINTS, REGIONAL_CHAT_ROOMS, getRoomBySlug } from '@arbya-chat/sdk';
 
-const saudiRoom = getRoomBySlug('saudi');
-console.log(saudiRoom?.url); // https://arbya.chat/saudi
+const room = getRoomBySlug('saudi');
+console.log(room?.url); // https://arbya.chat/saudi
 ```
 
----
+## 📄 License & Official Links
 
-## 🗺️ Regional Endpoints Reference
-
-| Region / Room | Official Endpoint |
-| :--- | :--- |
-| **شات عربي العام** | [https://arbya.chat/arabic-chat](https://arbya.chat/arabic-chat) |
-| **شات بدون تسجيل 2026** | [https://arbya.chat/chat-without-registration-2026](https://arbya.chat/chat-without-registration-2026) |
-| **شات صوتي عربي 2026** | [https://arbya.chat/voice-chat-2026](https://arbya.chat/voice-chat-2026) |
-| **شات السعودية والخليج** | [https://arbya.chat/saudi](https://arbya.chat/saudi) |
-| **شات مصر والقاهرة** | [https://arbya.chat/egypt](https://arbya.chat/egypt) |
-| **شات سوريا ودمشق** | [https://arbya.chat/syria](https://arbya.chat/syria) |
-| **شات العراق وبغداد** | [https://arbya.chat/iraq](https://arbya.chat/iraq) |
-| **شات الأردن وعمّان** | [https://arbya.chat/jordan](https://arbya.chat/jordan) |
-| **شات فلسطين والقدس** | [https://arbya.chat/palestine](https://arbya.chat/palestine) |
-| **شات المغرب العربي** | [https://arbya.chat/morocco](https://arbya.chat/morocco) |
-| **شات عرب ميشيغان وديربورن** | [https://usachatip.com/michigan-dearborn-chat](https://usachatip.com/michigan-dearborn-chat) |
-| **شات عرب نيويورك** | [https://usachatip.com/new-york-arab-chat](https://usachatip.com/new-york-arab-chat) |
-| **شات عرب كاليفورنيا** | [https://usachatip.com/california-arab-chat](https://usachatip.com/california-arab-chat) |
-| **شات عرب كندا** | [https://usachatip.com/canada-arab-chat](https://usachatip.com/canada-arab-chat) |
-
-## 📄 License
-
-MIT © [Arbya Chat](https://arbya.chat)
+- **Official Website:** [https://arbya.chat](https://arbya.chat)
+- **Android App Portal:** [https://arbya.chat/app](https://arbya.chat/app)
+- **Privacy Policy:** [https://arbya.chat/privacy](https://arbya.chat/privacy)
+- **Terms of Service:** [https://arbya.chat/terms](https://arbya.chat/terms)
