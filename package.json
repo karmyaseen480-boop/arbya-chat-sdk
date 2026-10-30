@@ -1,0 +1,22 @@
+{
+  "name": "@arbya-chat/sdk",
+  "version": "1.1.5",
+  "description": "TypeScript room directory and WebRTC signaling helper SDK for Arbya Chat (https://arbya.chat) and USA Chat (https://usachatip.com)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "homepage": "https://arbya.chat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karmyaseen480-boop/arbya-chat-sdk.git"
+  },
+  "keywords": [
+    "arbya-chat",
+    "arabic-chat",
+    "webrtc",
+    "socket.io",
+    "typescript",
+    "usa-chat"
+  ],
+  "author": "Arbya Chat <karmyaseen480@gmail.com> (https://arbya.chat)",
+  "license": "MIT"
+}
